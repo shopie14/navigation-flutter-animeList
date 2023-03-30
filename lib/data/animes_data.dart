@@ -1,4 +1,4 @@
-import 'package:pertemuan_v/models/news.dart';
+import 'package:pertemuan_v/models/anime.dart';
 
 List<News> newsData = [
   News(

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:pertemuan_v/models/news.dart';
+import 'package:pertemuan_v/models/anime.dart';
 
 class NewsDetailScreen extends StatefulWidget {
   final News news;

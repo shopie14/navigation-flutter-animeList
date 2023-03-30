@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:pertemuan_v/models/news.dart';
+import 'package:pertemuan_v/models/anime.dart';
 
-import '../../data/news_data.dart';
+import '../../data/animes_data.dart';
 import '../../widget/news_item_widget.dart';
 
 class LatesNewsWidget extends StatelessWidget {

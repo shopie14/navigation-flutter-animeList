@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
-import 'package:pertemuan_v/data/news_data.dart';
+import 'package:pertemuan_v/data/animes_data.dart';
 
 class HotNewsWidget extends StatelessWidget {
   const HotNewsWidget({
