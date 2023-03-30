@@ -57,7 +57,7 @@ class _HomeScreenState extends State<HomeScreen> {
           icon: Icon(Icons.home),
         ),
         BottomNavigationBarItem(
-          label: "News",
+          label: "Anime List",
           icon: Icon(Icons.newspaper),
         ),
         BottomNavigationBarItem(

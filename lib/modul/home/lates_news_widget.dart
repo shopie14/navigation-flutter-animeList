@@ -14,7 +14,7 @@ class LatesNewsWidget extends StatelessWidget {
     return Column(
       children: [
         ListTile(
-          title: const Text("Lates News",
+          title: const Text("Lates Anime",
               style: TextStyle(fontWeight: FontWeight.bold)),
           trailing: IconButton(
               onPressed: () {},

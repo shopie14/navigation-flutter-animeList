@@ -13,7 +13,7 @@ class NewsScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return ListView(
       children: [
-        const ListTile(title: Text("News Article List")),
+        const ListTile(title: Text("Anime List")),
         Column(
           children:
               newsData.map((News news) => NewsItemWidget(news: news)).toList(),

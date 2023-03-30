@@ -12,7 +12,7 @@ class HotNewsWidget extends StatelessWidget {
     return Column(
       children: [
         ListTile(
-          title: const Text("Hot News",
+          title: const Text("Hot Anime",
               style: TextStyle(fontWeight: FontWeight.bold)),
           trailing: IconButton(
             icon: const Icon(
