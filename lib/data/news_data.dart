@@ -37,5 +37,13 @@ List<News> newsData = [
     image: "https://cdn.myanimelist.net/images/anime/1847/134795.jpg",
   ),
 ];
-
+List<News> hotNews = [
+  News(
+    id: 5,
+    title: "The Angel Next Door Spoils Me Rotten",
+    description:
+        "Mahiru Shiina is worthy of her nickname Angel: she is a divine beauty loved by all, and she excels in both academics and athletics. Shiina lives in an entirely different world from Amane Fujimiya, her next-door neighbor. Despite living so close together, they have never spoken once. But their silence is broken when Fujimiya spots Shiina gloomily sitting on a swing amidst a heavy rainstorm and lends her his umbrella. When Fujimiya catches a cold the next day, Shiina wishes to return the favor for the umbrella by nursing him back to health. Believing that this would be their first and last interaction, he silently appreciates her kindness. However, Shiina—who can not help but worry about Fujimiya's lack of tidiness and proper nutrition—begins to cook and clean for him. As the unlikely pair spend time together in Fujimiya's apartment, they explore the true nature of their relationship and the gentle emotions that emerge from it",
+    image: "https://cdn.myanimelist.net/images/anime/1847/134795.jpg",
+  ),
+];
 
