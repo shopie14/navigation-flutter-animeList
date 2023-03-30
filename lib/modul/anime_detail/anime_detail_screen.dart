@@ -17,7 +17,7 @@ class _NewsDetailScreenState extends State<NewsDetailScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text("News Detail"),
+        title: const Text("Anime Detail"),
       ),
       body: Container(
         padding: const EdgeInsets.symmetric(horizontal: 10),
