@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
 
-import '../models/news.dart';
+import '../models/anime.dart';
 
 class NewsItemWidget extends StatelessWidget {
   NewsItemWidget({

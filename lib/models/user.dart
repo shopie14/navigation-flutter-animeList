@@ -17,13 +17,13 @@ class User {
 
   factory User.dummy() {
     return User(
-      id: 20,
-      name: "Fadia Siti Nursifa",
-      userName: "sifa.dia",
-      email: "2006076@itg.ac.id",
+      id: 047,
+      name: "Shopi Nurhidayanti",
+      userName: "shoyaaa.is",
+      email: "2006061@itg.ac.id",
       profileImage:
           "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgWmbJ3C3OaZ5R5_k5gedfywbLbuZbgsHiQuBIr2S6wCMF9Vri_DgXwIp3Cp3I4j_NQQg&usqp=CAU",
-      phoneNumber: "089635729696",
+      phoneNumber: "081224501871",
     );
   }
 }

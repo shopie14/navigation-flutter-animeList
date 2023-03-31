@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:pertemuan_v/modul/menu/menu_screen.dart';
-import 'package:pertemuan_v/modul/news/news_screen.dart';
+import 'package:pertemuan_v/modul/anime_list/anime_screen.dart';
 
 import '../../models/user.dart';
 import 'header_widget.dart';
-import 'hotnews_widget.dart';
-import 'lates_news_widget.dart';
+import 'hotanime_widget.dart';
+import 'lates_anime_widget.dart';
 import 'searchbar_widget.dart';
 
 class HomeScreen extends StatefulWidget {

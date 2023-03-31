@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
-import 'package:pertemuan_v/models/news.dart';
-import 'package:pertemuan_v/modul/news_detail/new_detail_screen.dart';
+import 'package:pertemuan_v/models/anime.dart';
+import 'package:pertemuan_v/modul/anime_detail/anime_detail_screen.dart';
 import 'package:pertemuan_v/modul/home/home_screen.dart';
 
 import '../models/user.dart';
